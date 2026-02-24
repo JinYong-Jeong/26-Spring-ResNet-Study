@@ -22,7 +22,7 @@ degradation이 overfitting이 아니라 **최적화 문제**라는 핵심 근거
 
 Overfitting 
 
-![image.png](attachment:0ba8d84b-658e-4290-8681-62cf88b260ef:image.png)
+![image.png]([attachment:0ba8d84b-658e-4290-8681-62cf88b260ef:image.png](https://images.ctfassets.net/8r8i0zgzl3nn/3PCq8YnSrL5UPE6Iqm9IRe/fc9e84d327c01d2be258e9d7fabca243/under-overfitting.png))
 
 degradation
 
